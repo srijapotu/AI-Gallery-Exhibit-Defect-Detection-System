@@ -1,0 +1,1 @@
+Developed an AI-powered system that detects and classifies defective exhibits using image processing and machine learning. Implemented visualization of results for better defect tracking and accuracy analysis.
